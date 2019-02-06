@@ -1,0 +1,40 @@
+# API USER MANAGEMENT
+
+GET {{host-url}}/users/
+
+###
+
+POST {{host-url}}/users/
+Content-Type: application/json
+
+{
+  "id": 100,
+  "firstname": "max",
+  "lastname": "max"
+}
+###
+
+GET {{host-url}}/users/100
+
+###
+
+PUT {{host-url}}/users/100
+Content-Type: application/json
+
+{
+  "id": 100,
+  "firstname": "TOM",
+  "lastname": "max"
+}
+
+###
+
+DELETE {{host-url}}//users/100
+###
+
+//TO DO
+### API PRODUCT MANAGEMENT
+
+
+
+

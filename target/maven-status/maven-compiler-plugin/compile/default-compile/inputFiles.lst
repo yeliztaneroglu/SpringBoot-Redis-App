@@ -1,0 +1,14 @@
+/home/yeliz/redisexample/src/main/java/redisDemo/config/RedisDemoConfiguration.java
+/home/yeliz/redisexample/src/main/java/redisDemo/utils/TokenUtil.java
+/home/yeliz/redisexample/src/main/java/redisDemo/controller/RedisDemoController.java
+/home/yeliz/redisexample/src/main/java/redisDemo/service/UserService.java
+/home/yeliz/redisexample/src/main/java/redisDemo/controller/UserController.java
+/home/yeliz/redisexample/src/main/java/redisDemo/model/Category.java
+/home/yeliz/redisexample/src/main/java/redisDemo/repository/UserRepository.java
+/home/yeliz/redisexample/src/main/java/redisDemo/model/User.java
+/home/yeliz/redisexample/src/main/java/redisDemo/RedisDemoApplication.java
+/home/yeliz/redisexample/src/main/java/redisDemo/service/ProductService.java
+/home/yeliz/redisexample/src/main/java/redisDemo/service/CategoryService.java
+/home/yeliz/redisexample/src/main/java/redisDemo/repository/CategoryRepository.java
+/home/yeliz/redisexample/src/main/java/redisDemo/model/Product.java
+/home/yeliz/redisexample/src/main/java/redisDemo/repository/ProductRepository.java

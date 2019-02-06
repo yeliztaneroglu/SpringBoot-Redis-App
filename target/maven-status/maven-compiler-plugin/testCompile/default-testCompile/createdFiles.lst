@@ -1,0 +1,5 @@
+controller/RedisDemoControllerTest.class
+service/CategoryServiceTest.class
+service/UserServiceTest.class
+controller/UserControllerTest.class
+service/ProductServiceTest.class
